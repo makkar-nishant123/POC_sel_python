@@ -1,0 +1,7 @@
+1498559827683	geckodriver	INFO	Listening on 127.0.0.1:56776
+1498559829669	mozprofile::profile	INFO	Using profile path C:\Users\nmakkar\AppData\Local\Temp\rust_mozprofile.rwPVisgZT9cG
+1498559829702	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1498559829814	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56782
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[GFX1-]: VendorIDMismatch V 0x8086 0x1414
+1498559833270	Marionette	INFO	Listening on port 56782

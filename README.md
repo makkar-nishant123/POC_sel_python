@@ -10,6 +10,5 @@ pip install selenium
 
 5. Now Create new python project and create new package and module in it.
 OR 
-Import provided project.
-
+Import provided project and change path of geckodriver.exe 
 
